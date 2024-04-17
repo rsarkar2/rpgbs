@@ -1,2 +1,4 @@
-# rpgbs
-R package implementing rpgbs method
+# rPGBS
+R package implementing rPGBS method
+
+Authors: Sarkar R., Manage S., Gao X.
