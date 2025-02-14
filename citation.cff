@@ -1,13 +1,26 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: >-
+  rPGBS: repeatedly randomized Pseudo Group Bi-level
+  Selection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "rpgbs"
+  - given-names: Reetika
+    family-names: Sarkar
+    email: rsarkar@uncg.edu
+    name-particle: Reetika
+    affiliation: >-
+      Department of Mathematics and Statistics, University
+      of North Carolina at Greensboro
+  - given-names: Sithija
+    family-names: Manage
+    affiliation: 'Department of Mathematics, Texas A&M University'
+  - given-names: Xiaoli
+    family-names: Gao
+    affiliation: Meta Platforms
+
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2025-02-14
