@@ -22,8 +22,19 @@ authors:
     affiliation: Meta Platforms
 identifiers:
   - type: url
-    value: 'https://github.com/rsarkar2/rpgbs'
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2025-02-14
-url: "https://github.com/rsarkar2/rpgbs"
+    value: >-
+      https://link-springer-com.libproxy.uncg.edu/article/10.1007/s40745-023-00481-5
+    description: >-
+      Stable Variable Selection for High-Dimensional Genomic
+      Data with Strong Correlations
+repository-code: 'https://github.com/rsarkar2/rpgbs'
+abstract: >-
+  R package implementing rPGBS method, a two-stage procedure
+  to address the issue of stable variable selection in
+  various strong correlation settings. This approach
+  involves repeatedly running a two-stage hierarchical
+  approach consisting of a random pseudo-group clustering
+  and bi-level variable selection.
+keywords:
+  - feature selection
+  - penalty-based regression
