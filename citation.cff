@@ -20,7 +20,9 @@ authors:
   - given-names: Xiaoli
     family-names: Gao
     affiliation: Meta Platforms
-
+identifiers:
+  - type: url
+    value: 'https://github.com/rsarkar2/rpgbs'
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2025-02-14
